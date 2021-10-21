@@ -26,3 +26,4 @@
 [![Telegram](https://shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/contactred)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtar07&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

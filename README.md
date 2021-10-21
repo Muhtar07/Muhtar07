@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Muhtar07/Muhtar07/blob/master/assets/EdOWHZjWAAI8rT_-2.jpg)
 
 обо мне
 
@@ -17,6 +17,6 @@ Back-end:
  - Express,
  - PostgreSQL,
  - Sequelize;
- 
+
 как меня найти 
 
